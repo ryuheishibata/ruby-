@@ -1,1 +1,1 @@
-lesson1.rb
+puts `こんにちは!`
